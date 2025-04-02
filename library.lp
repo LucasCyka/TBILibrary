@@ -1,0 +1,11 @@
+(librepcb_library 42d6afbd-33a4-4eaa-8208-0045ab6f53e1
+ (name "TBIlib")
+ (description "Nossa biblioteca")
+ (keywords "")
+ (author "Lucas")
+ (version "0.1")
+ (created 2025-04-02T15:32:03Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)
