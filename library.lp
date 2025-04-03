@@ -6,6 +6,6 @@
  (version "0.1")
  (created 2025-04-02T15:32:03Z)
  (deprecated false)
- (url "")
+ (url "https://github.com/LucasCyka/TBILibrary")
  (manufacturer "")
 )
